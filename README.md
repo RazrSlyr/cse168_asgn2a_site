@@ -1,4 +1,4 @@
-# CSE 168 Assignment 1B
+# CSE 168 Project 2A
 ## What is the Assignment?
 The goal of the assignment was to create a simple MR experience with virtual objects in real scene
 ## How did we do it?
